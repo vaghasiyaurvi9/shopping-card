@@ -1,0 +1,9 @@
+.deleteitem{
+  cursor: pointer;
+}
+.circle{
+  height: 180px;
+  width: 180px;
+  background-color: blue;
+  padding-bottom: -10px;
+}
